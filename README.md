@@ -1,0 +1,2 @@
+# collider
+I developed an online 2-D space shooting game built using the Unity Engine. The objective of the player is to battle and destroy incoming enemy ships. The player has health points and can collect hearts to regain health. The game has features such as collision detection, dynamic difficulty adjustment, and an online database where players will be ranked based on their scores. This game was developed with the Unity API and C#.
